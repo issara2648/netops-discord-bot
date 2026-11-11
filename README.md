@@ -14,8 +14,6 @@ A ChatOps tool that lets you check the status of a Cisco IOS router and back up 
 
 ![NetOps Bot in Discord](docs/discord-demo.png)
 
-![GNS3 lab topology](docs/gns3-topology.png)
-
 ## Project progression
 
 The project was built step by step, from a basic SSH connection to a full chat-driven bot.
